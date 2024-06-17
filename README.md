@@ -1,4 +1,4 @@
-# Ravi Prakash Sharma's Resume
+# Ravi Prakash Sharma
 
 ## Contact Information
 - **Email:** [ravi.sharma2720@gmail.com](mailto:ravi.sharma2720@gmail.com)
