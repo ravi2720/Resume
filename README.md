@@ -7,7 +7,7 @@
 - **LinkedIn:** [Ravi Sharma](https://in.linkedin.com/in/ravi-sharma-1b4169158)
 
 ## Summary
-.NET developer with over 2+ years of experience in building applications using C#, ASP.NET, and .NET Core. Skilled in database management, software testing, and debugging. Strong team player who excels in agile environments and meeting deadlines. Passionate about staying updated with industry trends.
+.NET developer with over 3+ years of experience in building applications using C#, ASP.NET, and .NET Core. Skilled in database management, software testing, and debugging. Strong team player who excels in agile environments and meeting deadlines. Passionate about staying updated with industry trends.
 
 ## Experience
 
